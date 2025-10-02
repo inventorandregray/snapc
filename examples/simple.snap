@@ -1,0 +1,2 @@
+SineOsc osc freq=440 out s1;
+s1 -> audio.out;
