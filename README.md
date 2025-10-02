@@ -28,13 +28,6 @@ It parses simple `.snap` files and generates a standalone C++ DSP program that o
 
 ---
 
-## Build Instructions
-
-```bash
-mkdir build && cd build
-cmake ..
-make
-
 ## Notes
 
 - Reference implementation; can be extended with additional oscillators, filters, envelopes.
